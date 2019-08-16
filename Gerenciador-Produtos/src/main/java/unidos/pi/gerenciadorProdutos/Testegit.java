@@ -15,6 +15,16 @@ public class Testegit {
         
         System.out.println("Teste de Commits");
         
+        
+        for(int i= 0; i<10;i++){
+            
+            int a = 0,b = 0;
+            
+            System.out.println(a+b);
+        }
+        
+        
     }
     
+   
 }
